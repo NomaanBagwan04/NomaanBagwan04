@@ -1,11 +1,35 @@
-Hey there, I'm Nomaan 👋<br><br>
-**Aspirational AI Engineer | Data Science Enthusiast | Full-Stack Developer**<br>
-🚀 Passionate about solving real-world problems with clean code and clever algorithms.<br><br>---<br><br>
-🌱 Learning & Exploring:<br>- 🧠 Large Language Models & vector databases (RAG workflows, anyone?)<br>- 📊 AI Agents, MCP Servers, Machine Learning Algorithms.<br>- 🏗️ Scaling systems & performance optimization.<br><br>
-🤝 Open to Collaborate On:<br>- AI/ML side projects, hackathons, or startup MVPs.<br>- Dev tools or productivity apps for developers & students.<br><br>
-💬 Ask Me About:<br>- Breaking into AI/DS as a fresher.<br>- Using ML to drive product insights.<br>- Deploying full-stack projects with minimal infra.<br><br>---<br><br>
-⚡ Fun Fact:<br>> AI won’t replace developers, but developers **using AI efficiently** will replace those who don’t.<br><br>---
+# **Hey there, I'm Nomaan** 👋<br>
 
+### **Aspirational AI Engineer | Data Science Enthusiast | Full-Stack Developer**<br>
+
+🚀 <em>Passionate about solving real-world problems with clean code and clever algorithms.</em><br>
+
+---
+
+### 🌱 **Learning & Exploring**<br>
+* 🧠 <strong>Large Language Models</strong> & <strong>vector databases</strong> <em>(RAG workflows, anyone?)</em><br>
+* 📊 <strong>AI Agents</strong>, <strong>MCP Servers</strong>, <strong>Machine Learning Algorithms</strong><br>
+* 🏗️ <strong>Scaling systems</strong> & <strong>performance optimization</strong><br>
+
+---
+
+### 🤝 **Open to Collaborate On**<br>
+* AI/ML <strong>side projects</strong>, <strong>hackathons</strong>, or <strong>startup MVPs</strong><br>
+* Dev tools or <strong>productivity apps</strong> for developers & students<br>
+
+---
+
+### 💬 **Ask Me About**<br>
+* Breaking into <strong>AI/DS</strong> as a fresher<br>
+* Using ML to drive <strong>product insights</strong><br>
+* Deploying <strong>Full-Stack projects</strong> with minimal infra<br>
+
+---
+
+### ⚡ **Fun Fact**<br>
+> <strong><b>AI won’t replace developers</strong>, but <strong>developers using AI efficiently</strong> will replace those who don’t !<b><br>
+
+---
 
  🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/nomaan5027) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nomaanbagwan04) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nomaanbagwan3134@gmail.com) <br><br>---
